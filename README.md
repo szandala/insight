@@ -10,7 +10,7 @@ https://pwr-edu.zoom.us/j/95621105920?pwd=a0duUGhTd2pPeTh5Ykx4ZlJhdlZuQT09
 
 ## Lab 2: Git
 
-[Git](https://docs.google.com/presentation/d/1Vejdr3gbdN9BrLHGWXJKz_AG12x_sFOLY6IbJuH0Ll4/edit?usp=sharing)
+[Git](https://docs.google.com/presentation/d/1XYj_inSibT4j2dyqbv6KDwQdGW7lB8PsQs-G16beC8o/edit?usp=sharing)
 
 [.gitconfig to use](lab2/gitconfig)
 
