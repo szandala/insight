@@ -1,7 +1,3 @@
-
-[diff]
-	tool = meld
-
 [alias]
     lg = log --graph --format='%C(yellow bold)%h%Creset %C(bold blue white)%d%Creset %C(white bold)%s%Creset%n     %C(magenta bold)%cr%Creset   %C(green bold)%an%Creset'
     export = "!f() { if [ ! -e ${4:-./}$3 ]; then git archive --format=tar --remote=${1} ${2} ${3} | tar -xvC ${4:-./}$(basename ${3}) && echo 'Export completed'; fi; }; f"
@@ -13,11 +9,10 @@
     up = pull
     tag = tag -a
     lat = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate
-    sts = "!k() { git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD | grep  '^author '| sort | uniq -c| sort -nr }; k"
+    sts = "!k() { git ls-tree -r -z --name-only HEAD | xargs -0 -n1 git blame --line-porcelain HEAD | grep  '^author '| sort | uniq -c| sort -nr; }; k"
 
 [core]
     editor = vim
-
 
 [push]
 	default = simple

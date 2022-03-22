@@ -14,4 +14,4 @@ https://pwr-edu.zoom.us/j/95621105920?pwd=a0duUGhTd2pPeTh5Ykx4ZlJhdlZuQT09
 
 [.gitconfig to use](lab2/gitconfig)
 
-[Ankieta](todo)
+[Ankieta](https://forms.gle/59cLgEngtr3VreLf7)
