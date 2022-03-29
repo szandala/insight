@@ -15,3 +15,6 @@ https://pwr-edu.zoom.us/j/95621105920?pwd=a0duUGhTd2pPeTh5Ykx4ZlJhdlZuQT09
 [.gitconfig to use](lab2/gitconfig)
 
 [Ankieta](https://forms.gle/59cLgEngtr3VreLf7)
+
+Niestety jestem dzisiaj niedyspowany, więc jak ktoś chciałby pobawić się Gitem to proszę bardzo:
+https://docs.google.com/presentation/d/1pQJlYLITeGXjxNe-pWmasFIWlRk6G5dRhJjS5Wj-HSk/edit?usp=sharing
