@@ -8,7 +8,7 @@ const Home = () => {
   useEffect(() => {
     UserService.getPublicContent().then(
       (response) => {
-        setContent(response.data.content);
+        setContent(response.data.message);
       },
       (error) => {
         const _content =

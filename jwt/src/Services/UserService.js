@@ -4,7 +4,7 @@ import AuthHeader from "./AuthHeader";
 const API_URL = "http://localhost:5000/";
 
 const getPublicContent = () => {
-  return axios.get("http://localhost:3000/public.json");
+  return axios.get(API_URL);
 };
 
 const getUserPage = () => {
