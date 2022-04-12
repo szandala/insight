@@ -1,7 +1,7 @@
 # FullStack for dummies
 
 Zoom for some use:
-https://pwr-edu.zoom.us/j/95621105920?pwd=a0duUGhTd2pPeTh5Ykx4ZlJhdlZuQT09
+https://pwr-edu.zoom.us/j/99537444896?pwd=Vmc5K2wxQWtmcGp5bjJPUW1UUExXQT09
 
 ## Lab 1: Bash
 [Prezentacja wstępna](https://docs.google.com/presentation/d/19XC9llK7zQoxzk2M-vnbacRn4rrmXjBcbuK0vlDcVS4/edit?usp=sharing)
